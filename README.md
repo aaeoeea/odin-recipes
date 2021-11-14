@@ -1,4 +1,4 @@
 # odin-recipes
-Basic Recipe Website
+This sets up a basic recipe website.
 
-This is my first odin project to explore and demonstrate how to use common HTML tags in building a website. 
+First attempt making a webpage to explore use of common HTML tags and elements.
